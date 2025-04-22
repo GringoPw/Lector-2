@@ -9,7 +9,7 @@ from controllers.qr_controller import QRController
 class QRApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Lector de QR - Ticket B - JP 2025 - 2.1B")
+        self.root.title("Lector de QR - Ticket B - JP 2025 - 3.5B")
         self.root.geometry("1400x800")
         
         # Model
